@@ -6,6 +6,7 @@ public class Main extends SscAssignment {
         System.out.println("Hello world!!!_testing");
         System.out.println("First Commit, testing");
         System.out.println("First Commit, testing");
+        System.out.println("second Commit, testing");
     }
 
 }
